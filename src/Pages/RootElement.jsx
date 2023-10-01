@@ -1,7 +1,9 @@
+import Header from "../Components/Header/Header";
+
 const RootElement = () => {
     return (
         <div>
-            rootElement
+            <Header></Header>
         </div>
     );
 };
